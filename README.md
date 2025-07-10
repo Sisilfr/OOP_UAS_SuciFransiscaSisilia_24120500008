@@ -39,11 +39,11 @@ Club
 ```bash
 g++ -o fccakrawala main.cpp
 Jalankan
-```bash
+```
 
 ```bash
 ./fccakrawala
-```bash
+```
 
 ```bash
 Contoh output:
@@ -53,7 +53,7 @@ Head Coach - Name: Pak Budi, Age: 45
 Assistant Coach - Name: Pak Andi, Age: 40
 Players:
 Player - Name: Player 1, Age: 21, Position: Midfielder
-```bash
+```
 
 📁 Struktur File
 .
