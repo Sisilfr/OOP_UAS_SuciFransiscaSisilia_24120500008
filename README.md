@@ -2,6 +2,9 @@
 
 Ini adalah program C++ simulasi sistem manajemen tim sepak bola **FC Cakrawala**, klub binaan Universitas Cakrawala. Program ini menampilkan penerapan konsep **Object-Oriented Programming (OOP)** lengkap dengan **polimorfisme**, **inheritance**, serta penerapan **Factory Method Design Pattern**.
 
+<img width="3199" height="3840" alt="OOP_UAS2_SuciFransiscaSisiliaR_24120500008" src="https://github.com/user-attachments/assets/6577f852-3f6c-41d3-8b1b-3229fc42fd7f" />
+
+
 ## 🧠 Fitur Utama
 - Membuat struktur tim sepak bola U-23 (FC Cakrawala Muda)
 - Mengelola data:
