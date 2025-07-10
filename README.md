@@ -55,15 +55,16 @@ Players:
 Player - Name: Player 1, Age: 21, Position: Midfielder
 ```
 
-📁 Struktur File
+## 📁 Struktur File
 .
 ├── main.cpp       # Source code utama
 ├── README.md      # Dokumentasi
+
 📌 Catatan
 Semua alokasi memori dilakukan dengan new, dan telah dikelola dengan delete di destructor untuk menghindari memory leak.
 
 Kode ini modular dan mudah diperluas, misalnya untuk menambah Staff, Match, atau Schedule.
 
-👩‍💻 Author
+## 👩‍💻 Author
 Suci Fransisca Sisilia
 Mahasiswa Data Science | Universitas Cakrawala
